@@ -119,7 +119,6 @@ i{
 /* hide nav menu; this styling is for the menu that will popup via js event method */
 .buttonNav{
     position: fixed;
-    display: inline-block;
     visibility: hidden;
     background-color: rgb(255, 255, 255);
     width: 110px;
@@ -127,7 +126,6 @@ i{
     flex-wrap: wrap;
     justify-content: center;
     border: 5px solid black;
-    
 }
 .buttonNav ul{
     padding: 0;
@@ -147,8 +145,8 @@ i{
     font-weight: 700;
     font-size: 120%;;
 }
-.businessName.side{
-    border-bottom: 1px dashed black;
+li.businessName.side{
+    border-bottom: 1px dashed red;
 }
 
 
