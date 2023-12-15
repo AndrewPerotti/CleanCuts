@@ -186,9 +186,6 @@ li.businessName.side{
     .businessName{
         position: static;
     }
-    header nav ul{
-        /* border-bottom: none; */
-    }
     i.fa-5x{
         font-size: 3em;
     }
@@ -214,7 +211,5 @@ li.businessName.side{
     .galleryImages img{
         width: 25%;        
     }
-    .galleryImages{
-        /* justify-content: space-evenly; */
-    }
+
 }
